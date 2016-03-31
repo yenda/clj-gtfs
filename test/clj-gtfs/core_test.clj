@@ -1,4 +1,4 @@
-(ns scripts.core-test
+(ns clj-gtfs.core-test
   (:require [clojure.test :refer :all]
             [scripts.core :refer :all]))
 

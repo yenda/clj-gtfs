@@ -1,16 +1,14 @@
-# scripts
+# clj-gtfs
 
-FIXME: description
+A library to work with gtfs format in Clojure (WIP)
 
 ## Installation
 
-Download from http://example.com/FIXME.
+
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar scripts-0.1.0-standalone.jar [args]
+    $ java -jar clj-gtfs-0.1.0-standalone.jar [args]
 
 ## Options
 
@@ -24,13 +22,9 @@ FIXME: listing of options this app accepts.
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Eric Dvorsak
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
